@@ -2,3 +2,8 @@
 .DS_Store
 *.zip
 *.csv.gz
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
